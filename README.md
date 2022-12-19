@@ -1,4 +1,4 @@
-<h3 align="center">I am a web developer. I am very interested in designing a fully responsive website.</h3>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
