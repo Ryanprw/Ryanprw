@@ -33,7 +33,7 @@ and enjoying a cup of black coffee
   <br>
   <br>
   <br>
-<h2 align="center"> ~✌ 𝕿𝖍𝖆𝖓𝖐𝖘 𝕱𝖔𝖗 𝕽𝖊𝖆𝖉𝖎𝖓𝖌! ✌~ </h2>
+<h2>  ~✌ 𝕿𝖍𝖆𝖓𝖐𝖘 𝕱𝖔𝖗 𝕽𝖊𝖆𝖉𝖎𝖓𝖌! ✌~ </h2>
 <div align="center">
 <img src="https://i.imgur.com/zlRP3m2.gif">
 </div>
