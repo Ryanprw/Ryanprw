@@ -36,16 +36,6 @@ and enjoying a cup of black coffee
 
 </p>
 <br>
-<h2 align="center">            ~ 𝕮𝖔𝖓𝖙𝖆𝖈𝖙 𝕸𝖊 ~ </h2>
-  <div align="center">
-<img src="https://i.imgur.com/o4Hqucc.gif" align="right" width="373.5px" height="208.5px">
-  </div>
-<br>
-<p align="center">Let's Communicate<br>
-<p align="center"><a href="https://www.linkedin.com/in/ryanprawira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn%20-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
-</div>
-<br>
-<div>
   <br>
   <br>
   <br>
