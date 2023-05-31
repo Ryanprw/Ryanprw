@@ -10,8 +10,8 @@
     <br>
   <p>𝒯𝖙𝖍𝖊𝖗𝖊 𝖎𝖘 𝖆 𝖜𝖍𝖔𝖑𝖊 𝖓𝖊𝖜 𝖜𝖔𝖗𝖑𝖉</p>
   <p>𝖙𝖍𝖆𝖙 𝖞𝖔𝖚 𝖓𝖊𝖊𝖉 𝖙𝖔 𝖊𝖝𝖕𝖑𝖔𝖗𝖊</p>
-  <br>
-  <p>I am currently exploring the wonderful world of Flutter, I will most likely be using flutter for the rest of my life</p>
+  <p>𝖨 𝖺𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝖾𝗑𝗉𝗅𝗈𝗋𝗂𝗇𝗀 𝗍𝗁𝖾 𝗐𝗈𝗇𝖽𝖾𝗋𝖿𝗎𝗅 𝗐𝗈𝗋𝗅𝖽 𝗈𝖿 𝖥𝗅𝗎𝗍𝗍𝖾𝗋, 
+    <br> 𝖨 𝗐𝗂𝗅𝗅 𝗆𝗈𝗌𝗍 𝗅𝗂𝗄𝖾𝗅𝗒 𝖻𝖾 𝗎𝗌𝗂𝗇𝗀 𝖿𝗅𝗎𝗍𝗍𝖾𝗋 𝖿𝗈𝗋 𝗍𝗁𝖾 𝗋𝖾𝗌𝗍 𝗈𝖿 𝗆𝗒 𝗅𝗂𝖿𝖾</p>
  <br>
 </div>
   <p align="center"><img src="https://img.shields.io/badge/Flutter%20-%231DA1F2.svg?&style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/><br>
