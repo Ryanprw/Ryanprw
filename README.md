@@ -29,13 +29,9 @@
 I am currently exploring the wonderful world of Flutter, I will most likely be using flutter for the rest of my life, I really enjoy writing programs while listening to music,
 and enjoying a cup of black coffee
  <br>
-   <br>
-   <br>
-   <br>
 
 </p>
 <br>
-  <br>
   <br>
   <br>
  <br>
