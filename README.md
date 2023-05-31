@@ -20,7 +20,6 @@
  <br>
 <p>
   <div align="center">
-<img src="https://i.imgur.com/3PoeZvF.gif" align="right">
   </div>
 </div>
 <div>
