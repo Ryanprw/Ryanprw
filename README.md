@@ -1,7 +1,7 @@
 <body> 
 <center>
 <h2>Hi, I'm Muhammad Ryan! <img src="https://media.giphy.com/media/gmmdtnbcRdDMs/giphy.gif" width="70"></h2>
-<img align='right' src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="230">
+
 <p><em>Flutter Developer</em></p>
 <p>I mainly use Flutter for hobby and professional purposes,  <br> Striving to learn for more and will be getting my hands on Go sometimes soon</p>
 </p>
