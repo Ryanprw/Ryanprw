@@ -9,7 +9,7 @@
 
 <div align="left">
   <a href="#"><img src="https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart&logoColor=9A9A9A"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=9A9A9A"></a>
+  <a href="#"><img src="https://img.shields.io/badge/GOLANG-black?style=for-the-badge&logo=go&logoColor=9A9A9A"></a>
   <a href="#"><img src="https://img.shields.io/badge/FLUTTER-black?style=for-the-badge&logo=flutter&logoColor=9A9A9A"></a>
   <a href="#"><img src="https://img.shields.io/badge/JAVASCRIPT-black?style=for-the-badge&logo=javascript&logoColor=9A9A9A"></a>
 </div>
